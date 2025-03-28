@@ -29,8 +29,8 @@
             border-radius: 50%; /* Create a circular shape */
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
-            top: 75px; /* Adjust top position as needed */
-            left: 75px; /* Adjust left position as needed */
+            top: 20px; /* Adjust top position as needed */
+            left: 20px; /* Adjust left position as needed */
         }
 
         nav {
@@ -45,8 +45,8 @@
         }
 
         nav ul li {
-            display: block;
-            margin: 0 auto;
+            display: inline-block;
+            margin: 0 15px;
         }
 
         nav ul li a {
@@ -143,9 +143,12 @@
     </section>
 
     <section id="resume">
-        <div class="section-content"> style="text-align: center;">
-            <h2>Resume</h2>
-            <a href="resume.jpg" target="_blank" class="download-button">Download CV</a>
+    <div class="section-content" style="text-align: center;">
+        <h2>Resume</h2>
+        <a href="resume.jpg" target="_blank" class="download-button">Download CV</a>
+    </div>
+</section>
+
         </div>
     </section>
 
