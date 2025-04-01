@@ -26,7 +26,7 @@
         .profile-picture {
             width: 100px; /* Adjust the size as needed */
             height: 100px;
-            border-radius: 75%; /* Create a circular shape */
+            border-radius: 50%; /* Create a circular shape */
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
             top: 75px; /* Adjust top position as needed */
@@ -95,9 +95,9 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="propic.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Ms.R.T.RESHMA HASHMI</h1>
-            <p>ASSISTANT PROFESSOR</p>
+            <img src="photo.jpg" alt="Your Profile Picture" class="profile-picture">
+            <h1>Ms.S.GOPIKA</h1>
+            <p>STUDENT</p>
         </div>
     </header>
 
@@ -106,8 +106,8 @@
             <li><a href="#about">About</a></li>
             <li><a href="#education">Education</a></li>
             <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#resume">Resume</a></li>
+            <li><a
+href="#resume">Resume</a></li>
            
         </ul>
     </nav>
@@ -115,14 +115,14 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>A seasoned Assistant Professor of Computer Science, well-versed in the digital realms. On the lookout for an Assistant Professor role where I can harness my teaching prowess, research acumen, and programming expertise to nurture the next generation of computer scientists and enrich the academic landscape.</p>
+            <p>To work in a environment offering challenging career opportunities where I can apply and enhance my skills for solving diverse technical problems.</p>
         </div>
     </section>
 
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>University of Madras - M.Sc.IT</p>
+            <p>University of Madras -pursuing BCA</p>
             
             
         </div>
@@ -133,25 +133,12 @@
             <h2>Skills</h2>
             <ul>
                 <li>JAVA</li>
-                <li>RDBMS</li>
+                <li>PYTHON</li>
                 <li>C++</li>
-                <li>WEB DESIGNING</li>
-                <li>ADNROID</li>
-                <li>R PROGRAMMING<li>
+                <li>HTML</li>
+                <li>TALLY</li>
+                <li>C PROGRAMMING<li>
                     
-            </ul>
-        </div>
-    </section>
-
-    <section id="projects">
-        <div class="section-content">
-            <h2>Projects</h2>
-            <ul>
-                <li><a href="#">AI Based alternator control system</a></li>
-                <li><a href="#">Cloud Security IBM</a></li>
-                <li><a href="#">IBM chetbot</a></li>
-                <li><a href="#">chetbot</a></li> 
-                <!-- Add more project links here -->
             </ul>
         </div>
     </section>
@@ -161,7 +148,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="resume.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="resume.jpg" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
